@@ -21,4 +21,3 @@
 ![main page](https://github.com/Ivol-ga/ReactBankApp/raw/master/img/main.jpg)
 
 
-!(img/stat.jpg)
