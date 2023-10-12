@@ -18,6 +18,7 @@
 
 ### The local server is started by the command: npm start.
 
-!(img/main.jpg)
+![main page](https://github.com/Ivol-ga/ReactBankApp/raw/master/img/main.jpg)
+
 
 !(img/stat.jpg)
